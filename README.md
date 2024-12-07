@@ -1,8 +1,8 @@
 # Statistical Modeling Project (Predicting Gas Prices)
 
-# gas-price-prediction/
+# gas-price-predictions-statistical-modeling/
 # data/
-    gas_prices.csv               # Raw dataset containing historical gas prices
+    gas_prices.xls               # Raw dataset containing historical gas prices
 # scripts/
     regression_model.py          # Script to implement and analyze regression models
     time_series_model.py         # Script to implement and analyze time series models
