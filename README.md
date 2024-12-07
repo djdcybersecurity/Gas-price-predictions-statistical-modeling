@@ -1,2 +1,1 @@
-# Statistical-Modeling
-Implement statistical methods to solve real-world problems.
+#Statistical Modeling Project (Predicting Gas Prices)
