@@ -2,7 +2,7 @@
 
 
 
-gas-price-prediction/
+gas-price-predictions-statistical-modelings/
 ├── data/
 │   └── gas_prices.csv
 ├── scripts/
