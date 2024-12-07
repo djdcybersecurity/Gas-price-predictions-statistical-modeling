@@ -40,4 +40,40 @@
 
 
 
-    
+## Repository Structure
+
+The following is the directory structure of the project:
+
+```plaintext
+.
+├── data
+│   ├── gas_prices.xlsx
+│   └── processed_gas_prices.csv
+├── notebooks
+├── README.md
+├── repo_structure.txt
+├── requirements.txt
+├── results
+│   ├── regression_summary.txt
+│   └── time_series_summary.txt
+├── scripts
+│   ├── data_exploration.py
+│   ├── plot_results.py
+│   ├── preprocess_data.py
+│   ├── __pycache__
+│   ├── regression_model.py
+│   ├── run_pipeline.py
+│   └── time_series_model.py
+├── venv
+│   ├── bin
+│   ├── include
+│   ├── lib
+│   ├── lib64 -> lib
+│   ├── pyvenv.cfg
+│   └── share
+└── visualizations
+    ├── actual_vs_predicted_gas_prices.png
+    └── gas_price_forecast.png
+
+
+
