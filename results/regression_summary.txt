@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              Gas_Price   R-squared:                       0.056
+Model:                            OLS   Adj. R-squared:                  0.032
+Method:                 Least Squares   F-statistic:                     2.296
+Date:                Sat, 07 Dec 2024   Prob (F-statistic):             0.0814
+Time:                        13:14:48   Log-Likelihood:                -133.49
+No. Observations:                 120   AIC:                             275.0
+Df Residuals:                     116   BIC:                             286.1
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================
+                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+const                 3.4980      0.456      7.673      0.000       2.595       4.401
+Crude_Oil_Price       0.0036      0.004      1.021      0.309      -0.003       0.011
+Inflation_Rate       -0.0325      0.067     -0.486      0.628      -0.165       0.100
+Unemployment_Rate    -0.0801      0.034     -2.336      0.021      -0.148      -0.012
+==============================================================================
+Omnibus:                       19.629   Durbin-Watson:                   1.849
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):                6.170
+Skew:                           0.232   Prob(JB):                       0.0457
+Kurtosis:                       1.991   Cond. No.                         590.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
