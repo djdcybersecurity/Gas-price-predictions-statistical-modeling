@@ -4,7 +4,7 @@
 # data/
     gas_prices.xls               # Raw dataset containing historical gas prices
 # scripts/
-    regression_model.py          # Script to implement and analyze regression models
+    data_exploration.py          # Script to implement and analyze regression models
     time_series_model.py         # Script to implement and analyze time series models
 # notebooks/
     gas_price_analysis.ipynb     # Jupyter Notebook for exploratory analysis and modeling
