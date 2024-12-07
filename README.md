@@ -1,4 +1,4 @@
-# Statistical Modeling Project (Predicting Gas Prices)
+# Predicting Gas Prices Repository Structure Explanantion
 
 # gas-price-predictions-statistical-modeling/
 # data/
